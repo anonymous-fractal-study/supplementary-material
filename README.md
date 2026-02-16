@@ -9,7 +9,7 @@
 ```bash
 
 # Example
-git clone
+git clone https://github.com/anonymous-fractal-study/supplementary-material.git
 make install
 make gen
 make run
